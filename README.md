@@ -1,1 +1,1 @@
-This is React js application based oh angle theme
+This is React js application based on angle theme
